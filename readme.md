@@ -4,7 +4,7 @@ This project is my practice of basic Machine Learning by making submissions for 
 
 ### Dataset
 
-The dataset used for this project can be obtained from the Kaggle competition page: https://www.kaggle.com/competitions/titanic/data. It consists of two separate CSV files: train.csv and test.csv. The train.csv file is used for training and building the machine learning model, while the test.csv file is used for making predictions on unseen data.
+The dataset used for this project can be obtained from [the Kaggle competition page](https://www.kaggle.com/competitions/titanic/data). It consists of two separate CSV files: train.csv and test.csv. The train.csv file is used for training and building the machine learning model, while the test.csv file is used for making predictions on unseen data.
 
 ### Dependencies
 * Python 3.7+
